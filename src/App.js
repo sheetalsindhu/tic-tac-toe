@@ -61,7 +61,6 @@ function App() {
 
   return (
     <div className="app-header">
-      <h1>baseurl: {baseUrl}</h1>
       <p className="heading-text">Tic Tac Toe</p>
       <div className="board">
         <div className="row jc-center">
